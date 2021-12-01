@@ -4,4 +4,7 @@
 2. :seedling: Currently Studying: Operating Systems and Algorithms
 3. Hobbies: Reading, Violin, Photography
 
-[![Solved.ac 프로필](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=quartermaster)](https://solved.ac/profile/quartermaster)
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=quartermaster&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=quartermaster&theme=warm"/>
+</p>
